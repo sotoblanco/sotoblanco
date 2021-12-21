@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-I love Stock Market Anylsis and sport betting strategies using Probabilities and Machine Learning Models
 
 **About me**
 
